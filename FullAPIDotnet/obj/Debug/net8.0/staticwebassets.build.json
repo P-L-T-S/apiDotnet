@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XGWDNr486QTVvUy4NRQokULWfNS85U8KPu0fYcZp490=",
+  "Source": "FullAPIDotnet",
+  "BasePath": "_content/FullAPIDotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
